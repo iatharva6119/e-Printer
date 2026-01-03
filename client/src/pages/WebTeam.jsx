@@ -28,6 +28,7 @@ import {
 
 const WebTeam = () => {
   const [isVisible, setIsVisible] = useState({});
+  
   const [currentTechIndex, setCurrentTechIndex] = useState(0);
 
   // Intersection Observer for animations
@@ -37,6 +38,7 @@ const WebTeam = () => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
             setIsVisible(prev => ({ ...prev, [entry.target.id]: true }));
+            
           }
         });
       },
@@ -62,6 +64,7 @@ const WebTeam = () => {
       icon: <Smartphone className="w-6 h-6" />,
       title: "Mobile-First Design",
       description: "Responsive interface that works perfectly on all devices"
+      
     },
     {
       icon: <Database className="w-6 h-6" />,
@@ -517,4 +520,6 @@ const WebTeam = () => {
   );
 };
 
+
 export default WebTeam;
+
