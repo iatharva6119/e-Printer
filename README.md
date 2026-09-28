@@ -574,9 +574,8 @@ SOFTWARE.
 ## 👨‍💻 Developer
 
 <div align="center">
-  <img src="https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/raj.jpg" alt="Rajvardhan Deshmukh" width="150" height="150" style="border-radius: 50%;">
   
-  ### **Rajvardhan Deshmukh**
+  ### **Atharva Desai**
   *Full Stack Developer & Final Year IT Student at PICT*
   
   > *"Passionate about creating seamless digital experiences that solve real-world problems. I built E-Printer to revolutionize campus printing services and make students' lives easier."*
@@ -638,11 +637,11 @@ SOFTWARE.
   
   ![Star Badge](https://img.shields.io/github/stars/raj-deshmukh6403/e-Printer?style=social)
   
-  **Made with ❤️ by [Rajvardhan Deshmukh](https://github.com/raj-deshmukh6403)**
+  **Made with ❤️ by [Atharva Desai](https://github.com/iatharva6119)**
   
   ---
   
-  *© 2024 E-Printer. Revolutionizing campus printing, one document at a time.*
+  *© 2025 E-Printer. Revolutionizing campus printing, one document at a time.*
   
 </div>
 
