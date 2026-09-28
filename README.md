@@ -1,7 +1,7 @@
 # 🖨️ E-Printer - Campus Digital Printing Solution
 
 <div align="center">
-  <img src="https://github.com/raj-deshmukh6403/e-Printer/blob/main/client/public/raj.jpg" alt="E-Printer Logo" width="100" height="100" style="border-radius: 50%;">
+  
   
   <h3>Revolutionizing campus printing services with seamless digital experiences</h3>
   
